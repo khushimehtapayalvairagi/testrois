@@ -2,7 +2,7 @@ import React from 'react'
 
 function add() {
   return (
-    <div>addgfhgvb</div>
+    <div>addgfhgvbyjhjg</div>
   )
 }
 
